@@ -14,7 +14,6 @@ int toolbox_xf;
 int toolbox_yf;
 POINT Cursor;
 int size = 20;
-// int curColor = BLACK;
 
 struct tool {
     pair<int, int> start;
